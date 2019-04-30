@@ -5,3 +5,15 @@ header {
   background-position: left;
   padding-bottom: 10rem;
 }
+
+.navbar-brand {
+  color: #fff;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.fab {
+  color: #fff;
+}
