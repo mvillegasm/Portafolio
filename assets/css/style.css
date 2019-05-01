@@ -11,6 +11,12 @@ header {
   padding-bottom: 10rem;
 }
 
+h5 {
+  font-family: 'Lobster', cursive;
+  color: #fff;
+  font-size: xx-large;
+}
+
 .carousel-indicators li {
   background-color: #373A3C;
   width: 10px;
