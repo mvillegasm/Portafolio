@@ -1,6 +1,5 @@
 body {
   font-family: 'Roboto', sans-serif;
-  font-size: 400;
 }
 
 header {
@@ -9,6 +8,14 @@ header {
   background-size: cover;
   background-position: left;
   padding-bottom: 10rem;
+}
+
+h1 {
+  font-weight: 800;
+}
+
+h4 {
+  font-weight: 700;
 }
 
 h5 {
